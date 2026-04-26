@@ -16,11 +16,7 @@ Desarrollo de una API RESTful para e-commerce enfocada en la gestión de inventa
 
 ## Instalacion y Configuración
 
-1. **Clonar el repositorio**:
- ```bash
-    git clone https://github.com/Gbosaul/Utnbackend.git
-    cd /Utnbackend/Backend 
- ```
+
 
 2. **Instalar dependencias**:
 Abre una terminal en la ruta de /Frontend y /Backend y ejecuta el siguiente comando para descargar las librerías necesarias:
