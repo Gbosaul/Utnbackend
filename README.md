@@ -42,7 +42,7 @@ npm install
 Crea un archivo llamado `.env` dentro de la carpeta /Backend y pega lo siguiente dentro del archivo:
 \`\`\`env
 PORT=3000
-MONGO_URI=mongodb://localhost:27017/gbomarket
+MONGODB_URI=mongodb://localhost:27017/gbomarket
 \`\`\`
 *(Nota: Asegúrate de tener el servicio de MongoDB corriendo localmente en el puerto 27017).*
 
