@@ -18,8 +18,8 @@ Desarrollo de una API RESTful para e-commerce enfocada en la gestión de inventa
 
 1. **Clonar el repositorio**:
  ```bash
-    git clone https://github.com/Jableed43/999200921-back.git CAMBIAAAAAAR
-    cd 26/gastroflow/backend CAMBIARRRRRRRRRRRR
+    git clone https://github.com/Gbosaul/Utnbackend.git
+    cd /Utnbackend/Backend 
  ```
 
 2. **Instalar dependencias**:
