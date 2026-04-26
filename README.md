@@ -16,16 +16,30 @@ Desarrollo de una API RESTful para e-commerce enfocada en la gestión de inventa
 
 ## Instalacion y Configuración
 
-
+1. **Clonar el repositorio**:
+ ```bash
+    git clone https://github.com/Gbosaul/Utnbackend.git
+    cd Utnbackend
+ ```
 
 2. **Instalar dependencias**:
-Abre una terminal en la ruta de /Frontend y /Backend y ejecuta el siguiente comando para descargar las librerías necesarias:
+Debes instalar las librerías tanto para el servidor como para la interfaz. Abre tu terminal y ejecuta:
+
+**Para el backend**
 \`\`\`bash
+cd Backend
+npm install
+\`\`\`
+
+**Para el frontend**
+\`\`\`bash
+cd ..
+cd Frontend
 npm install
 \`\`\`
 
 3. **Configurar Variables de Entorno (.env)**
-Crea un archivo llamado `.env` en la raíz del proyecto (al mismo nivel que `package.json`). Pega lo siguiente dentro del archivo:
+Crea un archivo llamado `.env` dentro de la carpeta /Backend y pega lo siguiente dentro del archivo:
 \`\`\`env
 PORT=3000
 MONGO_URI=mongodb://localhost:27017/gbomarket
